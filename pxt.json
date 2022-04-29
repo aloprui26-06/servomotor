@@ -1,5 +1,5 @@
 {
-    "name": "m",
+    "name": "servomotor",
     "description": "",
     "dependencies": {
         "core": "*",
